@@ -10,8 +10,8 @@
 ## Brief introduction
 
 Hello!  My name is [Dan Williams](https://www.linkedin.com/in/dan-williams-3011aa8/) and I'm
-a research director and mechanical engineer that works for Ansys Inc in Waterloo, Ontario, 
-Canada.
+a research director and mechanical engineer that works for [Ansys Inc[(www.ansys.com)
+in Waterloo, Ontario, Canada.
 
 
 ### My professional background
