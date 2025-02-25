@@ -39,7 +39,7 @@ LinkedIn page. There is a link below and I do my best to keep it up to date.
 
 ## :man_technologist: Software languages
 
-I've worked in many languages over the years.  Here's some of them:
+I've worked in many languages over the years. Here's some of them:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
@@ -49,9 +49,11 @@ I've worked in many languages over the years.  Here's some of them:
   <img src="https://github.com/devicons/devicon/blob/master/icons/fortran/fortran-original.svg" title="Fortran" alt="Fortran" width="40" height="40"/>&nbsp;
 </div>
 
-I've been around a while, so there are things that don't have icons like c-shell, shell and Pascal.
+I've been around a while, so there are things that don't have icons like c-shell and Pascal.
 
 ## :hammer_and_wrench: Software tools
+
+I've also used a number of tools over the years too. Here's a few of those:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
