@@ -46,9 +46,10 @@ I've worked in many languages over the years.  Here's some of them:
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/fortran/fortran-original.svg" title="Fortran" alt="Fortran" width="40" height="40"/>&dbsp;
 </div>
 
-I've been around a while so you can add things that don't have icons like Fortran, c-shell, shell and Pascal.
+I've been around a while, so there are things that don't have icons like c-shell, shell and Pascal.
 
 ## :hammer_and_wrench: Software tools
 
